@@ -1,8 +1,12 @@
-body{background: aliceblue;}
+body{background: rgb(255, 240, 254);}
 p{background: lavender;}
 b{color: blue;}
 h3 {
   text-align: center;
   color: red;
-  border: 1px dotted green;
 }
+.cont{display: flex;
+        
+        }
+.colortext{color: rgb(104, 3, 151)}
+.bgcolor{background-color: yellow;}
