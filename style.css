@@ -1,12 +1,27 @@
-body{background: rgb(255, 240, 254);}
-p{background: lavender;}
+body{background: rgb(174, 255, 178);}
+
+p{background: lavender;
+padding: 10px;
+margin-left: 10px;
+}
+
+
 b{color: blue;}
-h3 {
+
+h1 {
   text-align: center;
   color: red;
 }
-.cont{display: flex;
-        
-        }
-.colortext{color: rgb(104, 3, 151)}
+
+h2, h3{
+  text-align: center;
+  color: rgb(234, 0, 255);
+}
+
+.cont{display: flex;}
+
 .bgcolor{background-color: yellow;}
+
+#zadanie{
+    text-align: left;
+}
